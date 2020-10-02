@@ -23,6 +23,7 @@ Let's contribute and enjoy the open source community
 | Java | starpattern.java | Halix267 |
 | JS | addarrowbuttonleftpattern.js | Eduardo-Vieira |
 | JS | starpattern.js | Eduardo-Vieira |
+| JS | hungpv-triangle.js | Hungpv-2151 |
 | Python | HollowSquare.py | tusshar17 |
 | Python | HollowSquare1.py | Aman-kulshreshtha |
 | Python | leftArrowPattern.py | |
