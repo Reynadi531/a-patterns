@@ -8,7 +8,7 @@ squarePattern(n)
 
 
 
-/* For n=5
+/* 
 * * * * * 
 * * * * * 
 * * * * * 
