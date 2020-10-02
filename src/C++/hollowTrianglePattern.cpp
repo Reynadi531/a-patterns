@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void printHollowStarPattern(int n) {
+void printHollowTrianglePattern(int n) {
 	/* suppose n is 5 the function will print
 	 *
 	 **
@@ -21,7 +21,7 @@ void printHollowStarPattern(int n) {
 int main() {
 	int n;
 	cin >> n;
-	printHollowStarPattern(n);
+	printHollowTrianglePattern(n);
 }
 
 
