@@ -10,3 +10,22 @@ This repository originaly was make for hacktoberfest2020, it's a beginner friend
 ## Remember to check and test your PR as well ask to assign you to an issue
 
 Let's contribute and enjoy the open source community
+
+## List of Patterns
+
+| Language             | Pattern Name | Contributor |
+|----------------------|------        |--------     |
+| C | starpattern.c | smita05 |
+| C++ | starpattern.cpp | anurag-bhatt |
+| Java | arrowleftPattern.java | Halix267 |
+| Java | diamondpattern.java | vczoika |
+| Java | starpattern.java | Halix267 |
+| JS | addarrowbuttonleftpattern.js | Eduardo-Vieira |
+| JS | starpattern.js | Eduardo-Vieira |
+| Python | HollowSquare.py | tusshar17 |
+| Python | HollowSquare1.py | Aman-kulshreshtha |
+| Python | leftArrowPattern.py | |
+| Python | squarepattern.py | Aravindha1234u |
+| Python | squarePattern1.py | Halix267 |
+| Python | squarePattern2.py | tusshar17 |
+| Rust | squarepattern.rs | meneza |
