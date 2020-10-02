@@ -31,4 +31,5 @@ Let's contribute and enjoy the open source community
 | Python | squarePattern1.py | Halix267 |
 | Python | squarePattern2.py | tusshar17 |
 | Rust | squarepattern.rs | meneza |
+| Python | HollowTrianglePattern.py | ymchandaliya |
 | Python | HollowTriangle.py | RishabhPathak1211 |
