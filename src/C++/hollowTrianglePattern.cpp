@@ -13,6 +13,7 @@ void printHollowTrianglePattern(int n) {
 		for(int j = 1 ; j <= i ; j++) { // j is the number of stars in every line
 			if(i==n || j==1 || j==i) cout << "*" ;
 			else cout<<" ";
+			cout<<" "; // for adding space between stars
 		}
 		cout << "\n"; // a line break after every line
 	}
