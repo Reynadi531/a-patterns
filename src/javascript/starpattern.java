@@ -25,10 +25,10 @@ public class Starpattern
 }
 
 
-//
+/*
  *
  * *
  * * *
  * * * *
  * * * * *
- //
+ */
