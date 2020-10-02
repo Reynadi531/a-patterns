@@ -1,4 +1,4 @@
-public class Starpattern
+public class star
 { 
     public static void pattern(int n) 
     { 

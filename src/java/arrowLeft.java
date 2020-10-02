@@ -1,4 +1,4 @@
-public class ArrowLeftPattern
+public class arrowLeft
 { 
     public static void pattern(int n) 
     { 
