@@ -10,3 +10,12 @@ int main(){
 		printf("\n");
 	}
 }
+/*
+Insert the size of the square you want to make: 6
+* * * * * *
+* * * * * *
+* * * * * *
+* * * * * *
+* * * * * *
+* * * * * *
+*/
