@@ -24,6 +24,7 @@ Let's contribute and enjoy the open source community
 | JS | addarrowbuttonleftpattern.js | Eduardo-Vieira |
 | JS | starpattern.js | Eduardo-Vieira |
 | JS | hungpv-square.js | Hungpv-2151 |
+| JS | hungpv-triangle.js | Hungpv-2151 |
 | Python | HollowSquare.py | tusshar17 |
 | Python | HollowSquare1.py | Aman-kulshreshtha |
 | Python | leftArrowPattern.py | |
@@ -31,4 +32,5 @@ Let's contribute and enjoy the open source community
 | Python | squarePattern1.py | Halix267 |
 | Python | squarePattern2.py | tusshar17 |
 | Rust | squarepattern.rs | meneza |
+| Python | HollowTrianglePattern.py | ymchandaliya |
 | Python | HollowTriangle.py | RishabhPathak1211 |
