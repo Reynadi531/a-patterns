@@ -17,6 +17,7 @@ Let's contribute and enjoy the open source community
 |----------------------|------        |--------     |
 | C | starpattern.c | smita05 |
 | C++ | starpattern.cpp | anurag-bhatt |
+| C++ | hollowTrianglePattern.cpp | Saloni Goyal |
 | Java | arrowleftPattern.java | Halix267 |
 | Java | diamondpattern.java | vczoika |
 | Java | starpattern.java | Halix267 |
