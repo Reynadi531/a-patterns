@@ -15,6 +15,7 @@ Let's contribute and enjoy the open source community
 
 | Language             | Pattern Name | Contributor |
 |----------------------|------        |--------     |
+| C | hollow_right_angled_triangle.c | rohan8660 |
 | C | starpattern.c | smita05 |
 | C++ | starpattern.cpp | anurag-bhatt |
 | C++ | hollowTrianglePattern.cpp | Saloni Goyal |
