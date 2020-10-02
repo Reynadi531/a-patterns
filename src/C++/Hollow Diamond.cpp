@@ -46,6 +46,8 @@ void hollow(int n)
             cout<<"*";
         cout<<endl;    
     }
+      for(int i=0; i<n; i++)
+        cout<<"*";
         
 }
 
