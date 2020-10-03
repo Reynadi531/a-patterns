@@ -22,6 +22,7 @@ Let's contribute and enjoy the open source community
 | C | starpattern.c | smita05 |
 | C++ | starpattern.cpp | anurag-bhatt |
 | C++ | hollowTrianglePattern.cpp | Saloni Goyal |
+| C++ | hollow_inverted_pyramid_pattern.cpp | mk1107 |
 | Java | arrowleftPattern.java | Halix267 |
 | Java | diamondpattern.java | vczoika |
 | Java | starpattern.java | Halix267 |
@@ -39,3 +40,4 @@ Let's contribute and enjoy the open source community
 | Rust | squarepattern.rs | meneza |
 | Python | HollowTrianglePattern.py | ymchandaliya |
 | Python | HollowTriangle.py | RishabhPathak1211 |
+| Python | hollow_inverted_pyramid_pattern.py | mk1107 |
