@@ -35,7 +35,7 @@ public class HollowSquare {
 
 /*
 
-Prints the following (with dimension == 10):
+Prints the following (with dimension == 5):
 
 * * * * *
 *       *
