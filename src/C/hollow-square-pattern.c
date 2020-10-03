@@ -12,11 +12,11 @@ int main()
         {
             if(i==1 || i==N || j==1 || j==N)
             {
-                printf("*");
+                printf("* ");
             }
             else
             {
-                printf(" ");
+                printf("  ");
             }
         }
         printf("\n");
@@ -25,10 +25,11 @@ int main()
     return 0;
 }
 
-//Output:
+/* Output:
 Enter number of rows: 5
-*****
-*   *
-*   *
-*   *
-*****
+* * * * * 
+*       * 
+*       * 
+*       * 
+* * * * * 
+*/
