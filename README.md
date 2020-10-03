@@ -1,6 +1,8 @@
 # a-patterns
 ## A repository of patterns collection with many programing language.
 This repository originaly was make for hacktoberfest2020, it's a beginner friendly PR.
+> ***For professionals: This is not the pretiest repository and maybe hurts your eyes, thats way this is for beginner, many of them just starts using git
+and contributing to the open source community. I hope you understand***
 
 ### How to contribute
 - You can go to the src folder and choose your language.
