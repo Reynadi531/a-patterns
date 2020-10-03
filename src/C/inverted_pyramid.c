@@ -12,16 +12,24 @@ int main()
     {
         for(j=1; j<i; j++)
         {
-            printf(" ");
+            printf("\t");
         }
 
         for(j=1; j<=(rows*2 -(2*i-1)); j++)
         {
-            printf("*");
+            printf("*\t");
         }
 
         printf("\n");
     }
 
+	/*
+	
+	* * * * * * * *
+	  * * * * * *
+	    * * * *
+	      * *
+	       *
+	*/
     return 0;
 }
