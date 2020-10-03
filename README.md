@@ -24,6 +24,7 @@ Let's contribute and enjoy the open source community
 | Java | arrowleftPattern.java | Halix267 |
 | Java | diamondpattern.java | vczoika |
 | Java | starpattern.java | Halix267 |
+| Java | HollowSquare.java | nakennedy11 |
 | JS | addarrowbuttonleftpattern.js | Eduardo-Vieira |
 | JS | starpattern.js | Eduardo-Vieira |
 | JS | hungpv-square.js | Hungpv-2151 |
