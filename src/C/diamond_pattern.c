@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 int main()
@@ -11,10 +10,10 @@ int main()
   for (k = 1; k <= n; k++)
   {
     for (c = 1; c <= n-k; c++)
-      printf(" ");
+      printf("  ");
 
     for (c = 1; c <= 2*k-1; c++)
-      printf("*");
+      printf("* ");
 
     printf("\n");
   }
@@ -22,10 +21,10 @@ int main()
   for (k = 1; k <= n - 1; k++)
   {
     for (c = 1; c <= k; c++)
-      printf(" ");
+      printf("  ");
 
     for (c = 1 ; c <= 2*(n-k)-1; c++)
-      printf("*");
+      printf("* ");
 
     printf("\n");
   }
@@ -34,20 +33,21 @@ int main()
 }
 
 
+
 // OUTPUT
 /*
 
 Enter number of rows
 5
-    *
-   ***
-  *****
- *******
-*********
- *******
-  *****
-   ***
-    *
+        *
+      * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
 
 Press any key to continue.
 */
