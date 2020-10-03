@@ -1,14 +1,14 @@
-for (let i = 0; i < 5; i++) {
-    for (let j = 0; j < 5; j++) {
-      process.stdout.write('* ');
-    }
-    console.log('');
+const SIZE = 5;
+for (let i = 0; i < SIZE; i++) {
+  for (let j = 0; j < SIZE; j++) {
+    process.stdout.write("* ");
   }
-  
-  // output:
-  // * * * * *
-  // * * * * *
-  // * * * * *
-  // * * * * *
-  // * * * * *
-  
+  console.log("");
+}
+
+// output:
+// * * * * *
+// * * * * *
+// * * * * *
+// * * * * *
+// * * * * *
