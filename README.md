@@ -1,6 +1,8 @@
 # a-patterns
 ## A repository of patterns collection with many programing language.
 This repository originaly was make for hacktoberfest2020, it's a beginner friendly PR.
+> ***For professionals: This is not the pretiest repository and maybe hurts your eyes, thats way this is for beginner, many of them just starts using git
+and contributing to the open source community. I hope you understand***
 
 ### How to contribute
 - You can go to the src folder and choose your language.
@@ -15,12 +17,16 @@ Let's contribute and enjoy the open source community
 
 | Language             | Pattern Name | Contributor |
 |----------------------|------        |--------     |
+| C | hollow_right_angled_triangle.c | rohan8660 |
+| C | diamond_pattern.c | rohan8660 |
 | C | starpattern.c | smita05 |
 | C++ | starpattern.cpp | anurag-bhatt |
 | C++ | hollowTrianglePattern.cpp | Saloni Goyal |
+| C++ | hollow_inverted_pyramid_pattern.cpp | mk1107 |
 | Java | arrowleftPattern.java | Halix267 |
 | Java | diamondpattern.java | vczoika |
 | Java | starpattern.java | Halix267 |
+| Java | HollowSquare.java | nakennedy11 |
 | JS | addarrowbuttonleftpattern.js | Eduardo-Vieira |
 | JS | starpattern.js | Eduardo-Vieira |
 | JS | hungpv-square.js | Hungpv-2151 |
@@ -34,3 +40,4 @@ Let's contribute and enjoy the open source community
 | Rust | squarepattern.rs | meneza |
 | Python | HollowTrianglePattern.py | ymchandaliya |
 | Python | HollowTriangle.py | RishabhPathak1211 |
+| Python | hollow_inverted_pyramid_pattern.py | mk1107 |
