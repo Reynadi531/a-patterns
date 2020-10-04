@@ -19,3 +19,21 @@ public class SquarePattern {
         }
     }
 }
+
+/*
+-> javac SquarePattern.java
+-> java SquarePattern
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* 
+
+*/
