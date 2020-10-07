@@ -1,3 +1,23 @@
+/*
+            @Author : Karshil Sheth
+             PASCAL TRIANGLE IMPLEMENTATION Java
+             Output : Enter the number of rows: 
+                        6
+                        * 
+                        * * 
+                        * * * 
+                        * * * * 
+                        * * * * * 
+                        * * * * * * 
+                        * * * * * 
+                        * * * * 
+                        * * * 
+                        * * 
+                        * 
+
+
+*/
+
 import java.util.Scanner;
 
 public class PascalPattern {
