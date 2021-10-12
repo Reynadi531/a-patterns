@@ -20,6 +20,7 @@ Let's contribute and enjoy the open source community
 | C | hollow_right_angled_triangle.c | rohan8660 |
 | C | diamond_pattern.c | rohan8660 |
 | C | starpattern.c | smita05 |
+| C | number_triangle.c | Tudo12 |
 | C++ | starpattern.cpp | anurag-bhatt |
 | C++ | hollowTrianglePattern.cpp | Saloni Goyal |
 | C++ | hollow_inverted_pyramid_pattern.cpp | mk1107 |
