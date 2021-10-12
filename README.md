@@ -28,6 +28,7 @@ Let's contribute and enjoy the open source community
 | Java | diamondpattern.java | vczoika |
 | Java | starpattern.java | Halix267 |
 | Java | HollowSquare.java | nakennedy11 |
+ Java | number_triangle.java | Tudo12 |
 | Java | SquarePattern_KarshilSheth.java | karshil2309 |
 | JS | addarrowbuttonleftpattern.js | Eduardo-Vieira |
 | JS | starpattern.js | Eduardo-Vieira |
