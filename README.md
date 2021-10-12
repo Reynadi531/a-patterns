@@ -33,6 +33,7 @@ Let's contribute and enjoy the open source community
 | JS | starpattern.js | Eduardo-Vieira |
 | JS | hungpv-square.js | Hungpv-2151 |
 | JS | hungpv-triangle.js | Hungpv-2151 |
+| JS | number-triangle.js | Tudo12 |
 | Python | HollowSquare.py | tusshar17 |
 | Python | HollowSquare1.py | Aman-kulshreshtha |
 | Python | leftArrowPattern.py | |
