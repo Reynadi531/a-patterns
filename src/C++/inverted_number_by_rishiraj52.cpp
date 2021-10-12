@@ -17,3 +17,35 @@ int main()
     }
     return 0;
 }
+
+/*
+
+The code when executed will look like this:-
+
+Input-
+Enter number of rows: 8
+Output-
+1 2 3 4 5 6 7 8 
+1 2 3 4 5 6 7 
+1 2 3 4 5 6 
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+
+Input-
+Enter number of rows: 10
+Output-
+1 2 3 4 5 6 7 8 9 10 
+1 2 3 4 5 6 7 8 9 
+1 2 3 4 5 6 7 8 
+1 2 3 4 5 6 7 
+1 2 3 4 5 6 
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+
+*/
